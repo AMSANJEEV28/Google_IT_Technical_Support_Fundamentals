@@ -39,10 +39,4 @@ By the end of this course, I gained the ability to:
 
 ## Certificate
 
-[View my certificate here](assets/Coursera%202SG9ZZAEA643_page-0001.jpg).
-
-
-**Completion Date:**  
-This course was completed on **[Add your completion date here]**.
-
-Feel free to explore the repository for insights into the coursework and practical skills gained during this course.
+[View my certificate here](assets/Coursera%202SG9ZZAEA643_page-0001.jpg)
