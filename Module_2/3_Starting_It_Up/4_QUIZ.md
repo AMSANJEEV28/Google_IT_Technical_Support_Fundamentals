@@ -1,9 +1,6 @@
 # Practice Quiz: Starting It Up
 
 **Module 2: Starting It Up**
-
-## Questions and Answers
-
 ### Question 1
 **What is the difference between a ROM chip and a RAM chip? Check all that apply.**
 
