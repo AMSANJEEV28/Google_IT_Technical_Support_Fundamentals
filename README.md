@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# WASTE
-=======
 # Google IT Technical Support Fundamentals
 
 This repository contains my coursework, notes, assignments, and certificate for the **Google IT Support Specialization** course, specifically the first course, **Technical Support Fundamentals**, offered by Google via Coursera. This course provided a comprehensive introduction to the world of Information Technology (IT) and prepared me for an entry-level IT Support Specialist role.
@@ -43,5 +40,3 @@ By the end of this course, I gained the ability to:
 ## Certificate
 
 [View my certificate here](assets/Coursera%202SG9ZZAEA643_page-0001.jpg)
->>>>>>> 9572deea4933f49047f67f984b58c9866a3d6850
-# WASTE
